@@ -1,0 +1,35 @@
+@font-face {
+    font-family: Gilroy-Regular;
+    src: url(font/Gilroy-Regular.ttf);
+}
+@font-face {
+    font-family: Gilroy-Bold;
+    src: url(font/Gilroy-Bold.ttf);
+}
+.Gilroy-Reg{
+    font-family: Gilroy-Regular;
+}
+.Gilroy-Bold{
+    font-family: Gilroy-Bold;
+}
+.main-bg{
+    background-color: #ffd1b0;
+}
+.second-bg{
+    background-color: #fedcc5;
+}
+.third-bg{
+    background-color:#fee7d6;   
+}
+.font-12{
+    font-size: 12px;
+}
+.font-8{
+    font-size: 8px;
+}
+.shrink-input{
+    height: 20px;
+       
+    
+}
+
